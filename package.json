@@ -1,6 +1,6 @@
 {
   "name": "weeb-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A humorous and functional JavaScript logging library inspired by the anime subculture.",
   "main": "index.js",
   "scripts": {
