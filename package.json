@@ -1,12 +1,24 @@
 {
   "name": "weeb-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A humorous and functional JavaScript logging library inspired by the anime subculture.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "logging",
+    "anime",
+    "weeb",
+    "console",
+    "debug",
+    "logger"
+  ],
   "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Howard3/node-weeb-logger"
+  },
+  "license": "MIT"
 }
